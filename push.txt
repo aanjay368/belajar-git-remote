@@ -1,0 +1,13 @@
+untuk mengirim perubahan yang ada di local ke github repo dengan
+nama branch yang sama gunakan perintah :
+git push <nama_remote> <nama_branch>
+
+contoh : 
+git push origin main
+
+untuk mengirim perubahan yang ada di local ke github repo dengan
+nama remote dan nama branch yang berbeda gunakan perintah :
+git push <nama_remote> <nama_branch_local>:<nama_branch_github>
+
+contoh : 
+git push origin develop:main
