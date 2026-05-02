@@ -1,0 +1,5 @@
+pull digunakan untuk mengambil perubahan dari repository remote dan 
+menggabungkannya dengan repository lokal pull
+pull bisa menyebabkan conflict jika ada perubahan yang sama
+di kedua repository
+
