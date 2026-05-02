@@ -1,0 +1,13 @@
+untuk melihat perubahan apa saja di repository remote yang tidak ada di lokal
+gunakan perintah :
+git fetch <name_remote>
+
+contoh :
+git fetch origin    
+
+jika ingin melihat perubahan di branch tertentu 
+gunakan perintah :
+git fetch <name_remote> <branch_remote>
+
+contoh :
+git fetch origin develop

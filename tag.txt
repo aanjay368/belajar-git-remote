@@ -1,0 +1,2 @@
+Tag tidak akan otomatis di push juga ketika melakukan push
+perlu melakukan push tagnya juga
